@@ -1,0 +1,29 @@
+{
+  "userProfile": {
+    "email": "test@student.com",
+    "name": "Alex",
+    "dailyHours": 4,
+    "currentStreak": 7,
+    "currentMood": "tired"
+  },
+  "activeGoals": [
+    {
+      "id": "goal_1",
+      "subject": "A-Level Mathematics",
+      "mode": "exam",
+      "examDate": "2024-04-15",
+      "isCrunchMode": false,
+      "unfinishedTopics": [
+        "Differentiation basics",
+        "Chain rule",
+        "Product rule",
+        "Integration introduction",
+        "Integration by substitution"
+      ],
+      "totalPendingTasks": 5,
+      "performanceIndex": "45% accuracy",
+      "recentWeakTopics": ["Chain rule", "Product rule"]
+    }
+  ],
+  "todayDate": "2024-03-20"
+}

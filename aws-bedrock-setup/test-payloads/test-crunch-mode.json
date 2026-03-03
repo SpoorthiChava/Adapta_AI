@@ -1,0 +1,32 @@
+{
+  "userProfile": {
+    "email": "test@student.com",
+    "name": "Sarah",
+    "dailyHours": 4,
+    "currentStreak": 3,
+    "currentMood": "stressed"
+  },
+  "activeGoals": [
+    {
+      "id": "goal_1",
+      "subject": "Biology A-Level",
+      "mode": "exam",
+      "examDate": "2024-03-22",
+      "isCrunchMode": true,
+      "unfinishedTopics": [
+        "Cell division",
+        "DNA replication",
+        "Protein synthesis",
+        "Enzyme kinetics",
+        "Photosynthesis",
+        "Respiration",
+        "Genetics basics",
+        "Evolution theory"
+      ],
+      "totalPendingTasks": 8,
+      "performanceIndex": "55% accuracy",
+      "recentWeakTopics": ["Cell division", "DNA replication", "Protein synthesis"]
+    }
+  ],
+  "todayDate": "2024-03-20"
+}

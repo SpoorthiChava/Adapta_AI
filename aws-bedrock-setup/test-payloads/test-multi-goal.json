@@ -1,0 +1,45 @@
+{
+  "userProfile": {
+    "email": "test@student.com",
+    "name": "Jordan",
+    "dailyHours": 5,
+    "currentStreak": 12,
+    "currentMood": "calm"
+  },
+  "activeGoals": [
+    {
+      "id": "goal_1",
+      "subject": "Spanish A-Level",
+      "mode": "exam",
+      "examDate": "2024-03-25",
+      "isCrunchMode": false,
+      "unfinishedTopics": [
+        "Subjunctive mood",
+        "Past tenses review",
+        "Vocabulary: Politics",
+        "Essay writing practice"
+      ],
+      "totalPendingTasks": 4,
+      "performanceIndex": "68% accuracy",
+      "recentWeakTopics": ["Subjunctive mood"]
+    },
+    {
+      "id": "goal_2",
+      "subject": "History A-Level",
+      "mode": "exam",
+      "examDate": "2024-04-10",
+      "isCrunchMode": false,
+      "unfinishedTopics": [
+        "World War I causes",
+        "Treaty of Versailles",
+        "Interwar period",
+        "World War II",
+        "Cold War origins"
+      ],
+      "totalPendingTasks": 5,
+      "performanceIndex": "72% accuracy",
+      "recentWeakTopics": []
+    }
+  ],
+  "todayDate": "2024-03-20"
+}
